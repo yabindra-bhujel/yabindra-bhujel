@@ -121,8 +121,8 @@ I am committed to making the most of my university experience and am excited to 
 # Future Goal:
 # Contact information:
 - <a href="">yabindradev@gmail.com</a>
-- <a href="https://www.facebook.com">Facebook</a>
-- <a href="https://www.instagram.com/">Instgram</a>
+- <a href="https://www.facebook.com/sabitriyabindra">Facebook</a>
+- <a href="https://www.instagram.com/abindra31">Instgram</a>
 
 
 
