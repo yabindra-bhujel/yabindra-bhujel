@@ -128,8 +128,8 @@ I am always looking to learn more and improve my skills. Feel free to reach out 
 # Future Goal:
 # Contact information:
 - <a href="yabindradev@gmail.com">Gmail</a>
-- <a href="">Facebook</a>
-- <a href="">Instgram</a>
+- <a href="https://www.facebook.com">Facebook</a>
+- <a href="https://www.instagram.com/">Instgram</a>
 
 
 
