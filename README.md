@@ -105,24 +105,17 @@ I am always looking to learn more and improve my skills. Feel free to reach out 
 
 
 <h1 align="center"> More About Me:</h1>
-<h3>My name is Yabindra Bhujel, and I am originally from Nepal am currently living in Japan as an international student. I am studying Information Systems at <a href="https://www.shikoku-u.ac.jp/" > Shikoku University </a>, where I am in my third year of study.</h3>
+My name is Yabindra Bhujel, and I am originally from Nepal am currently living in Japan as an international student. I am studying Information Systems at <a href="https://www.shikoku-u.ac.jp/" > Shikoku University </a>, where I am in my third year of study.
 
 
-<h3>In addition to my studies, I work part-time at KFC, which has been a great opportunity for me to develop my teamwork and communication skills. It has also taught me the importance of customer service and how to handle high-pressure situations in a fast-paced environment. I use the money I earn to pay for my school fees and living expenses, which has taught me the value of hard work and financial responsibility. </h3>
+In addition to my studies, I work part-time at KFC, which has been a great opportunity for me to develop my teamwork and communication skills. It has also taught me the importance of customer service and how to handle high-pressure situations in a fast-paced environment. I use the money I earn to pay for my school fees and living expenses, which has taught me the value of hard work and financial responsibility.
 
+After arriving in Japan in April 2019, I spent two years studying the Japanese language at  <a href="https://www.meikei-net.ac.jp/">Nagoya Management and Accounting College </a> before enrolling in university. This experience has given me a deep appreciation for Japanese culture and language, and I am excited to continue learning and growing in this unique and fascinating country. 
+As a student of Information Systems, I am passionate about technology and its potential to improve people's lives. I am particularly interested in artificial intelligence and machine learning and have completed courses and projects related to these areas. I hope to use my skills to develop innovative solutions to real-world problems and make a positive impact in society. 
 
+In addition to my academic pursuits and part-time job, I enjoy participating in extracurricular activities, such as coding competitions and hackathons. These events challenge me to think creatively and develop my problem-solving skills, which I believe are essential for success in the technology industry.
 
-
-<h3>After arriving in Japan in April 2019, I spent two years studying the Japanese language at  <a href="https://www.meikei-net.ac.jp/">Nagoya Management and Accounting College </a> before enrolling in university. This experience has given me a deep appreciation for Japanese culture and language, and I am excited to continue learning and growing in this unique and fascinating country. </h3>
-
-<h3>As a student of Information Systems, I am passionate about technology and its potential to improve people's lives. I am particularly interested in artificial intelligence and machine learning and have completed courses and projects related to these areas. I hope to use my skills to develop innovative solutions to real-world problems and make a positive impact in society. </h3>
-
-
-<h3>In addition to my academic pursuits and part-time job, I enjoy participating in extracurricular activities, such as coding competitions and hackathons. These events challenge me to think creatively and develop my problem-solving skills, which I believe are essential for success in the technology industry.</h3>
-
-
-<h3>I am committed to making the most of my university experience and am excited to see where my studies and experiences will take me in the future. Thank you for taking the time to learn more about me, and I look forward to connecting with you! </h3>
-
+I am committed to making the most of my university experience and am excited to see where my studies and experiences will take me in the future. Thank you for taking the time to learn more about me, and I look forward to connecting with you! 
 
 
 # Future Goal:
