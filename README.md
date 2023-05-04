@@ -100,8 +100,8 @@ I am always looking to learn more and improve my skills. Feel free to reach out 
 
 
 # Language
-- Japanese
-- Nepali
+- Japanese🇯🇵
+- Nepali🇳🇵
 - English
 
 
