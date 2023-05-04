@@ -120,7 +120,7 @@ I am committed to making the most of my university experience and am excited to 
 
 # Future Goal:
 # Contact information:
-- <a href="yabindradev@gmail.com">Gmail</a>
+- <a href="">yabindradev@gmail.com</a>
 - <a href="https://www.facebook.com">Facebook</a>
 - <a href="https://www.instagram.com/">Instgram</a>
 
