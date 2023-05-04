@@ -2,7 +2,7 @@
 ### I am an international student studying at Shikoku University in Japan. I have learned programming languages  Java, C++, Python, and Javascript in my university and have even created some projects! Here are some of my notable projects:
 
 ## Recent projects
-- Django Ecommerce
+- <a href="https://github.com/yabindra-bhujel/Django-ecommerce"> Django Ecommerce </a>
 
 
 
