@@ -118,7 +118,6 @@ In addition to my academic pursuits and part-time job, I enjoy participating in 
 I am committed to making the most of my university experience and am excited to see where my studies and experiences will take me in the future. Thank you for taking the time to learn more about me, and I look forward to connecting with you! 
 
 
-# Future Goal:
 # Contact information:
 - <a href="">yabindradev@gmail.com</a>
 - <a href="https://www.facebook.com/sabitriyabindra">Facebook</a>
