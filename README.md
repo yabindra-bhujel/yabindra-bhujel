@@ -3,6 +3,7 @@
 
 ## Recent projects
 - <a href="https://github.com/yabindra-bhujel/Django-ecommerce"> Django Ecommerce </a>
+- <a href="https://github.com/yabindra-bhujel/restudentApi">Django RestApi Project</a>
 
 
 
