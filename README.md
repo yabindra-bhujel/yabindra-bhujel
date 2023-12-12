@@ -9,9 +9,6 @@
 
 I am always looking to learn more and improve my skills. Feel free to reach out to me if you have any questions or want to collaborate on a project!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yabindra-bhujel&show_icons=true&theme=radical">
-
-<br>
 
 
 <br>
