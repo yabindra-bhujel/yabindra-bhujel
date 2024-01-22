@@ -63,7 +63,6 @@ I am always looking to learn more and improve my skills. Feel free to reach out 
 
 
 # IDEs/Editors
-<img align ="left" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
 
 <img align ="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
@@ -76,7 +75,6 @@ I am always looking to learn more and improve my skills. Feel free to reach out 
 
 
 # Design
-<img align ="left" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
 <br>
@@ -91,8 +89,6 @@ I am always looking to learn more and improve my skills. Feel free to reach out 
 
 # Contact information:
 - <a href="">yabindradev@gmail.com</a>
-- <a href="https://www.facebook.com/sabitriyabindra">Facebook</a>
-- <a href="https://www.instagram.com/abindra31">Instgram</a>
 
 
 
