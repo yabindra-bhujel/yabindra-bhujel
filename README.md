@@ -3,7 +3,6 @@
 
 ## Recent projects
 - <a href="https://github.com/yabindra-bhujel/Django-ecommerce"> Django Ecommerce </a>
-- <a href="https://github.com/yabindra-bhujel/restudentApi">Django RestApi Project</a>
 
 
 
@@ -85,10 +84,6 @@ I am always looking to learn more and improve my skills. Feel free to reach out 
 
 #
 
-
-
-# Contact information:
-- <a href="">yabindradev@gmail.com</a>
 
 
 
