@@ -5,7 +5,7 @@ I'm a university student from Nepal, currently studying in Japan. I'm passionate
 ## 💻 Tech Stack
 
 - **Languages:**
-  - Python
+  - Python 
   - JavaScript
   - PHP
 - **Frameworks:**
@@ -23,5 +23,5 @@ I'm a university student from Nepal, currently studying in Japan. I'm passionate
 
 ## 📫 Feel free to connect!
 
-- Email: [your-email@example.com](mailto:yabindra2057@gmail.com)
+- Email: [yabindra2057@gmail.com](mailto:yabindra2057@gmail.com)
 
