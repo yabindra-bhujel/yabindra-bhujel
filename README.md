@@ -1,6 +1,7 @@
 # 👋 Hello!
-
-I'm a university student from Nepal, currently studying in Japan. I'm passionate about technology and programming, particularly in web and mobile app development.
+I'm a university student from Nepal, currently studying in Japan. I'm passionate about technology 
+and programming, particularly in web and mobile app development. As a beginner, I am eager to 
+learn and improve my skills in various programming languages and frameworks
 
 ## 💻 Tech Stack
 
