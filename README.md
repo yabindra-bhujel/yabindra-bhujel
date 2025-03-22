@@ -12,7 +12,6 @@ learn and improve my skills in various programming languages and frameworks
 - **Frameworks:**
   - Django 
   - React
-  - React Native
   - FastAPI
   - Symfony
 - **Tools:**
